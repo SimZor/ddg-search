@@ -1,2 +1,2 @@
-from . import app_config, run
+from . import setup
 
